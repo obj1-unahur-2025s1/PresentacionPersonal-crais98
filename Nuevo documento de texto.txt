@@ -1,0 +1,5 @@
+code .
+git commit -m "lo que cambiaste"
+git status
+git add .
+git push origin main
